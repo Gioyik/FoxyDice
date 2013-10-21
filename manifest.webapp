@@ -1,0 +1,13 @@
+{
+  "name": "FoxyDice",
+  "description": "Ready to have fun?",
+  "launch_path": "/index.html",
+  "installs_allowed_from": ["*"],
+  "developer": {
+    "name": "Giovanny Gongora",
+    "url": "http://github.com/gioyik"
+  },
+  "icons": {
+    "128": "/inc/128.png"
+  }
+}
